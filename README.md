@@ -7,7 +7,7 @@ A SwiftUI recreation of the Apple Music player interface built for iOS Bootcamp 
 
 
 ## 🛠 Features
-- **SwiftUI Layout Containers:** Built using nested `VStack`, `HStack`, and `ZStack` layouts[cite: 1, 2].
-- **Dark Neutral Background:** Styled with a dark gray to black `LinearGradient`[cite: 5].
-- **Interactive Controls:** Toggleable play/pause and favorite star buttons using `@State`[cite: 5].
+- **SwiftUI Layout Containers:** Built using nested `VStack`, `HStack`, and `ZStack` layouts.
+- **Dark Neutral Background:** Styled with a dark gray to black `LinearGradient`.
+- **Interactive Controls:** Toggleable play/pause and favorite star buttons using `@State`.
 - **Frosted Dynamic Island Dock:** Bottom control bar styled with `.ultraThinMaterial` and `Capsule()` clipping.
